@@ -1,29 +1,33 @@
-# Portfolio
+# Professional Korean Tutor - Portfolio
 
-A simple and modern portfolio template that is lightweight, mobile responsive and looks modern. 
+Welcome to my personal portfolio website. I am a dedicated and experienced Korean language tutor helping students worldwide master the Korean language from scratch to advanced levels.
 
-- [Demo](#demo)
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Installation](#installation)
+- [Live Demo](https://miriam-81.github.io/)
+- [About Me](#about-me)
+- [Services & Curriculum](#services--curriculum)
+- [Contact](#contact)
 
-### Demo
-[abhn.github.io/portfolio](https://abhn.github.io/portfolio)
+---
 
-### Screenshots
-![homepage](tmp/screenshot.jpg?raw=true "Homepage")
+## 🌐 Live Website
+Check out my official tutoring portfolio here: **[miriam-81.github.io](https://miriam-81.github.io/)**
 
-### Features
-- Single page portfolio made with vanilla CSS and jQuery
-- Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact
-- Smooth scrolling
-- Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
-- Lightweight and easily customizable
+## 👩‍🏫 About Me
+Hi! I'm a professional Korean tutor. I provide customized Korean language lessons tailored to each student's needs, whether it's for TOPIK preparation, business Korean, conversational practice, or K-culture enthusiasts.
 
-### Installation
-- Clone this repository and in the settings, set up Github pages in the setting and optionally a custom domain. The site is live now on `your-username.github.io/portfolio`.
-- In the config variables, add your details and if you use Google Analytics, add your Publisher ID in the `google_analytics` variable.
-- You can add/remove sections from the `_layouts/default.html` file, and then adding the corresponding html file in `_includes/` directory.
+## ✨ Features of My Tutoring
+- **Customized Curriculum:** Lessons designed around your personal goals and current level.
+- **Interactive Materials:** Engaging resources utilizing real-world Korean media, K-Pop, and dramas.
+- **Flexible Scheduling:** Online classes available across different time zones.
+- **Proven Results:** Systematic approach to improving speaking, listening, reading, and writing skills.
 
-### License
-GPL
+## 🛠️ Tech Stack (Website)
+This portfolio website was built using:
+- Vanilla CSS3 (Flexbox & Grid)
+- jQuery
+- HTML5
+
+## 📩 Contact & Business Inquiries
+If you are interested in learning Korean, feel free to reach out!
+- **Email:** normalgem@hotmail.com
+- **Website Contact Form:** [Go to Contact Section](https://miriam-81.github.io/#contact)
