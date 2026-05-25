@@ -1,6 +1,6 @@
-title: Milim Kim
-description: Korean Tutor
-site_title: 'Learn Korean with Milim'
+title: "Professional Korean Tutor | Milim Kim"
+description: "Learn Korean online with Milim Kim. Customized Korean language lessons for speaking, TOPIK preparation, and business Korean from a native speaker."
+site_title: "Learn Korean with Milim | Online Korean Lessons"
 
 # Build settings
 markdown: kramdown
@@ -17,5 +17,5 @@ reddit_username:
 # absolute or relative
 profile_picture: assets/images/profile.png
 
-# Google Analytics ID
-google_analytics: 
+# Google Analytics ID (팁: 구글 애널리틱스를 개설하신 후 측정 ID를 여기에 넣으면 방문자 분석이 가능합니다)
+google_analytics:
